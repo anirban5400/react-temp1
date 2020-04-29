@@ -1,0 +1,17 @@
+table {
+   margin: auto;
+  width: 200px;
+}
+td {
+  height: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+input {
+  width: 97%;
+  height: 30px;
+}
